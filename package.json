@@ -7,8 +7,7 @@
 		"type": "git",
 		"url": "https://github.com/SwiftSnabb/libsnabb.git"
 	},
-	"scripts": {
-	},
+	"scripts": {},
 	"devDependencies": {
 		"@types/bun": "latest",
 		"npm": "^10.8.2"
