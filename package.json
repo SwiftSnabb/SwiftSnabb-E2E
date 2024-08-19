@@ -1,0 +1,19 @@
+{
+	"name": "@swiftsnabb/libsnabb",
+	"module": "main.ts",
+	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/swiftsnabb/libsnabb.git"
+	},
+	"scripts": {
+		"publish": "bun --bun npm publish"
+	},
+	"devDependencies": {
+		"@types/bun": "latest",
+		"npm": "^10.8.2"
+	},
+	"peerDependencies": {
+		"typescript": "^5.0.0"
+	}
+}
