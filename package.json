@@ -10,7 +10,8 @@
 	"scripts": {},
 	"devDependencies": {
 		"@types/bun": "latest",
-		"npm": "^10.8.2"
+		"npm": "^10.8.2",
+		"semantic-release": "^24.1.0"
 	},
 	"peerDependencies": {
 		"typescript": "^5.0.0"
