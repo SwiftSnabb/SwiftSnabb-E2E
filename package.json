@@ -8,7 +8,6 @@
 		"url": "https://github.com/SwiftSnabb/libsnabb.git"
 	},
 	"scripts": {
-		"publish": "bun --bun npm publish"
 	},
 	"devDependencies": {
 		"@types/bun": "latest",
