@@ -15,7 +15,7 @@ jobs:
         with:
           registry-url: "https://registry.npmjs.org"
           scope: "@swiftsnabb"
-      - run: npm ci
+      - run: npm i
       - run: npm publish --provenance --access public
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
