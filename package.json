@@ -5,7 +5,7 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/swiftsnabb/libsnabb.git"
+		"url": "https://github.com/SwiftSnabb/libsnabb.git"
 	},
 	"scripts": {
 		"publish": "bun --bun npm publish"
